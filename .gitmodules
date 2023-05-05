@@ -1,0 +1,3 @@
+[submodule "github-action-create-pr-parent-submodule"]
+	path = github-action-create-pr-parent-submodule
+	url = git@github.com:pwqbot/github-action-create-pr-parent-submodule.git
